@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @USER-FX
 - 👀 I’m interested in  Python development of the stack.
-- 🌱 I’m currently learning Python web
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 
 <!---
